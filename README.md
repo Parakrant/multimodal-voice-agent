@@ -100,10 +100,8 @@ Open `client_enhanced.html` in your browser, click "Connect", and start chatting
 ## 📖 Documentation
 
 - **[Quick Start Guide](QUICKSTART.md)** - Get running in 5 minutes
-- **[Complete Documentation](README.md)** - Full technical documentation
-- **[Implementation Report](IMPLEMENTATION_REPORT.md)** - Detailed analysis
-- **[Deliverables Checklist](DELIVERABLES_CHECKLIST.md)** - Requirements verification
 - **[Rate Limiting Guide](RATE_LIMITING_FIX.md)** - API rate limit handling
+- **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute
 
 ## 💡 Usage Examples
 
