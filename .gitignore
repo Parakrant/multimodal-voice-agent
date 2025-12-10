@@ -56,3 +56,5 @@ cost_analysis_report*.json
 temp/
 tmp/
 *.tmp
+
+VERIFICATION_REPORT.md
