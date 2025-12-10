@@ -70,7 +70,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/multimodal-voice-agent.git
+git clone https://github.com/Parakrant/multimodal-voice-agent.git
 cd multimodal-voice-agent
 ```
 
@@ -272,9 +272,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/multimodal-voice-agent/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/multimodal-voice-agent/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/Parakrant/multimodal-voice-agent/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/Parakrant/multimodal-voice-agent/discussions)
 
 ## 🗺️ Roadmap
 
@@ -289,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/multimodal-voice-agent&type=Date)](https://star-history.com/#yourusername/multimodal-voice-agent&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Parakrant/multimodal-voice-agent&type=Date)](https://star-history.com/#Parakrant/multimodal-voice-agent&Date)
 
 ---
 
